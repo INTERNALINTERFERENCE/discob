@@ -17,3 +17,4 @@ C:\Prog\Projects\DiscoB\DiscoB\bin\Debug\netcoreapp3.1\DSharpPlus.Interactivity.
 C:\Prog\Projects\DiscoB\DiscoB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Prog\Projects\DiscoB\DiscoB\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Prog\Projects\DiscoB\DiscoB\obj\Debug\netcoreapp3.1\DiscoB.csproj.CoreCompileInputs.cache
+C:\Prog\Projects\DiscoB\DiscoB\obj\Debug\netcoreapp3.1\DiscoB.csprojAssemblyReference.cache
